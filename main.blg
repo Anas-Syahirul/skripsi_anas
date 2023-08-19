@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: contents/chapter-1/chapter-1.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: contents/chapter-2/chapter-2.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: contents/chapter-3/chapter-3.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: contents/chapter-4/chapter-4.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: contents/chapter-5/chapter-5.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: contents/chapter-6/chapter-6.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: references.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in handayani_rancang_nodate
+Warning--empty journal in rummujib_aplikasi_1907
+Warning--empty journal in vu_building_2020
+Warning--empty journal in dinku_reactjs_2022
+Warning--empty journal in rimal_developing_2019
+Warning--empty journal in mannila_sales_2022
+
+Done.
+You've used 29 entries,
+            4087 wiz_defined-function locations,
+            986 strings with 13279 characters,
+and the built_in function-call counts, 17523 in all, are:
+= -- 1458
+> -- 294
+< -- 122
++ -- 159
+- -- 49
+* -- 916
+:= -- 2889
+add.period$ -- 60
+call.type$ -- 29
+change.case$ -- 31
+chr.to.int$ -- 258
+cite$ -- 35
+duplicate$ -- 1328
+empty$ -- 1450
+format.name$ -- 60
+if$ -- 3971
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 229
+newline$ -- 132
+num.names$ -- 28
+pop$ -- 517
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1324
+stack$ -- 0
+substring$ -- 639
+swap$ -- 1011
+text.length$ -- 36
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 29
+warning$ -- 6
+while$ -- 81
+width$ -- 31
+write$ -- 314
+(There were 6 warnings)
